@@ -1,4 +1,8 @@
-1 先拉取数据透视 日期作为列
-2 拉取人名做行表头
-3 设置值为数量
-4 建立多人一折线图
+
+
+Steps to Create a Multi-Line Chart from Pivot Data
+
+1. **First, pull the pivot data with dates as columns**  
+2. **Use names as row headers**  
+3. **Set the values to be quantities**  
+4. **Create a multi-person line chart**
