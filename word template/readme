@@ -32,3 +32,21 @@ Choose Begin Arrow or End Arrow → to create a timeline effect
 To mark multiple timeline nodes, insert small circles or rectangles evenly along the line.
 
 Combine the rounded bar (progress bar) with the timeline for better visualization.
+
+4 Gradient Fill (Quick Method)
+
+1. **Right-click** your rounded rectangle → choose **Format Shape**.
+2. Under **Fill**, select **Gradient Fill**.
+3. Set **two gradient stops**:
+
+   * **Left stop** → Light Blue
+   * **Right stop** → White
+4. Set the **Gradient Direction** → **Left to Right**.
+5. Adjust the **Transparency**:
+
+   * Keep the left (blue) side solid and clear
+   * Make the right (white) side more transparent
+
+👉 Now you’ll get a **two-tone background (blue on the left, white on the right)** inside a **rounded rectangle**.
+
+
