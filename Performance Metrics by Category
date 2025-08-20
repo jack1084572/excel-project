@@ -1,0 +1,26 @@
+Performance Metrics by Category
+Sure! Here's the English translation of your instructions:
+
+---
+
+**1. Data:**
+
+```
+Item     A     B     C     D  
+Value    20    30    25    25  
+Percent  20    30    25    25  
+```
+
+---
+
+**2. Steps:**
+
+- Go to **Insert Chart** → choose **Combo Chart**
+- Select **Primary and Secondary Axis Grouping**
+- Then click **Switch Row/Column**
+
+> 💡 Tip: Convert both “Value” and “Percent” into integers (e.g., 20% → 20) to make the chart easier to format and compare.
+
+---
+
+Let me know if you'd like me to turn this into a ready-to-use Excel template or help with chart formatting!
